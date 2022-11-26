@@ -1,4 +1,4 @@
-# spiritfader's layout for Keebio Quefrency 65%, Revision 3
+# spiritfader's layout for Keebio Quefrency Revision 3 - 60%/65% Split Staggered Keyboard
 
 This is very similar to the default layout with 65% cluster and function macro pad. Only one rotary encoder in place of F1, mapped to control volume. Del key instead of home on default layer.
 
